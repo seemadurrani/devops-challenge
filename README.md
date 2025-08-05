@@ -3,7 +3,7 @@
 ## Overview
 Terraform-managed EKS cluster with secure networking, IAM roles, and Helm-deployed Nginx.
 
-![Architecture Diagram](./devops-challenge.drawio)
+![Architecture Diagram](./diagram.png)
 
 ##  Architecture Components
 
